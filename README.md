@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyle461
-- 👀 I’m interested in ... JavaScript, Python and C++
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python projects
+- 👀 I’m interested in ... JavaScript
+- 🌱 I’m currently learning ... JavaScript frameworks
+- 💞️ I’m looking to collaborate on ... JavaScript websites
 - 📫 How to reach me ... N/A
 
 <!---
